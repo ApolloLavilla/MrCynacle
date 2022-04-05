@@ -20,6 +20,7 @@ Black Clover is a japanese manga series written and illustrated by Yūki Tabata.
 <img src="https://static3.srcdn.com/wordpress/wp-content/uploads/2022/02/black-clover-devil-zagred.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" width="500" height="250">
 <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2022/02/Black-Clover-Dante.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5" width="500" height="250">
 <img src="https://static.wikia.nocookie.net/blackclover/images/f/f6/Vanica_anime_profile.png/revision/latest?cb=20210324181615" width="300" height="500">
+<img src="https://preview.redd.it/yh2bf9scr9q71.png?width=640&crop=smart&auto=webp&s=b841121342d51eb92ed5457e615b4555c6e13782" width="400" height="400">
 ```markdown
 Syntax highlighted code block
 
